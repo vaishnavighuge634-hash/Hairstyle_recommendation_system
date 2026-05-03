@@ -99,5 +99,3 @@ pip install -r requirements.txt
 Vaishnavi Ghuge
 
 ---
-
-## ⭐ If you like this project, give it a star!
